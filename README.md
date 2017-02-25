@@ -29,7 +29,7 @@ N/A
 
 ## Video Walkthrough 
 
-A walkthrough of implemented user stories was added to the repository with the name "SimpleToDo example":
+Here is a walkthrough of implemented user stories: "http://i.imgur.com/30YaoNq.gifv"
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
